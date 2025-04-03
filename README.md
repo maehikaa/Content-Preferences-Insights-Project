@@ -62,5 +62,8 @@ This project provides actionable insights into genre preferences and viewer enga
 - **Cultural Legacy**: Shows like *The Office* retain cultural relevance and drive continuous engagement.
 
 ---
+![image](https://github.com/user-attachments/assets/c270cfef-0b66-40fc-9428-ddf5235ecd2a)
+![image](https://github.com/user-attachments/assets/6493b4c3-c54f-430d-aa3e-009da6065396)
+![image](https://github.com/user-attachments/assets/8445eb53-3228-49a4-803b-4e30cc7e49e9)
 
 
